@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dd-mahn" alt="dd-mahn" /></a> </p>
 
-- 🔭 I’m currently working on [travelscott](https://travelscott.vercel.app/)
+- 🔭 I’m currently working on: [travelscott](https://travelscott.vercel.app/)
 
 - 🌱 Things I want to learn: **three.js, 3D, and maybe Next.js for web development in the future.**
 
-- 👨‍💻 My personal website(Dont click that haha) [https://manhspace.com](https://manhspace.com)
+- 👨‍💻 My personal website(Dont click that haha): [https://manhspace.com](https://manhspace.com)
 
 - 📝 Want to connect with me? [https://www.linkedin.com/in/dd-mahn/](https://www.linkedin.com/in/dd-mahn/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **dev.manhdo@gmail.com**
 
-- ⚡ A fact about me **I'm a solo leveling person.**
+- ⚡ A fact about me: **I'm a solo leveling person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
