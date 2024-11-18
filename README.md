@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [travelscott](https://travelscott.vercel.app/)
 
-- 🌱 Things I want to learn **three.js, 3D, and maybe Next.js for web development in the future.**
+- 🌱 Things I want to learn: **three.js, 3D, and maybe Next.js for web development in the future.**
 
 - 👨‍💻 My personal website(Dont click that haha) [https://manhspace.com](https://manhspace.com)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, framer motion and figma**
 
-- 📫 How to reach me **dev.manhdo@gmail.com**
+- 📫 How to reach me: **dev.manhdo@gmail.com**
 
 - ⚡ A fact about me **I'm a solo leveling person.**
 
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dd-mahn&show_icons=true&locale=en&layout=compact" alt="dd-mahn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dd-mahn&show_icons=true&locale=en" alt="dd-mahn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dd-mahn&show_icons=true&theme=dark&locale=en" alt="dd-mahn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dd-mahn&" alt="dd-mahn" /></p>
