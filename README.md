@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **dev.manhdo@gmail.com**
 
-- ⚡ A fact about me: **I'm a solo leveling person.**
+- ⚡ A fact about me: **My dream is to build an Awwward SOTD/SOTM/SOTY website some days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
