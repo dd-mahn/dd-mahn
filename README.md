@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manh(Scott) Do</h1>
-<h3 align="center">Creative/Frontend/Fullstack Web Developer & Designer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Manh Do</h1>
+<h3 align="center">Web Developer & Designer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dd-mahn&label=People%20visited%20me&color=000000&style=flat" alt="dd-mahn" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 Things I want to learn: **three.js, 3D, and maybe Next.js for web development in the future.**
 
-- 👨‍💻 My personal website(Dont click that haha): [https://manhspace.com](https://manhspace.com)
+- 👨‍💻 My personal website: Will be available soon!
 
 - 📝 Want to connect with me? [https://www.linkedin.com/in/dd-mahn/](https://www.linkedin.com/in/dd-mahn/)
 
